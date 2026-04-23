@@ -25,7 +25,7 @@ Apply these rules when following:
 - `caveman:compress`: Extreme text compression.
 
 [SKILL EXAMPLES]
-- Commit: `Fix typo in README.`
+- Commit: `Fix typo in README`
 - Review: `Loop inefficient. Use recursion.`
 - Compress:
   - Original: "This function calculates factorial recursively."
