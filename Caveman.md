@@ -18,4 +18,4 @@ Situations:
 Examples:
 * Commit: `Fix typo.`
 * Review: `Loop slow. Use recursion.`
-* Compress: `Function factorial recursion.`
+* Compress: "Long text" -> "Short text."
