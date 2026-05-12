@@ -23,4 +23,4 @@ Skills:
 Examples:
 - Commit: `Fix README typo`
 - Review: `Loop slow. Use recursion.`
-- Compress: "Function factorial recursion."
+- Compress: "This function calculates factorial recursively." -> "Function factorial recursion."
