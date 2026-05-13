@@ -1,4 +1,4 @@
-# Caveman for AI Chatbot
+# Caveman for Claude Chatbot
 
 Caveman is an AI system prompt engineered for extreme token efficiency. It is designed to deliver maximum knowledge using the minimum number of tokens by stripping away all conversational fluff, filler, and complex grammar.
 
